@@ -1,6 +1,9 @@
 # Linux FS Generator
 
-Generate a Linux file system for containerized applications or testing.
+Generate a simple Linux file system structure for testing and generating small linux file systems.
+
+> [!note]
+> This tool only creates the folder structure and does not create any binary files or other data.
 
 ## Usage
 
