@@ -1,12 +1,12 @@
 /**
  * Linux FS Generator (LFSG)
  * Generate a simple Linux file system structure for testing and generating small linux file systems.
- * GitHub: https://wwww.github.com/lewisevans2007/Linux_FS_Generator
+ * GitHub: https://wwww.github.com/0x4248/Linux_FS_Generator
  * Licence: Gnu General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
  */
 
-package org.github.lewisevans2007;
+package org.github.0x4248;
 
 import java.util.*;
 import java.io.*;
